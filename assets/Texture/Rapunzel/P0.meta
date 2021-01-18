@@ -1,6 +1,10 @@
 {
   "ver": "1.1.2",
+<<<<<<< HEAD
   "uuid": "8fb31ef1-afca-4d65-8756-99a800d46a67",
+=======
+  "uuid": "b81a7824-0140-42b2-ac83-a3c414614862",
+>>>>>>> master
   "isBundle": false,
   "bundleName": "",
   "priority": 1,
